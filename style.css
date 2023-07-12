@@ -1,0 +1,38 @@
+h1 {
+    font-size: 50px;
+}
+
+.green-color {
+    color: green;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+}
+
+img {
+    width: 80%;
+}
+
+.blog {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(62, 122, 231), rgb(211, 93, 113));
+    padding: 10px 40px;
+    font-weight: 700;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.blog {
+    display flex: 100%;
+}
